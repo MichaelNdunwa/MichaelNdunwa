@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hey👋, Welcome to my GitHub Page, I'm Michael, an Entry-Level Software Engineer<br><br>🌍  I'm based in Nigeria<br>✉️  You can contact me at ndunwa240@gmail.com<br>🎒  I'm currently studying computer engineering<br>🧠  I'm currently building small projects<br>🤝  I'm open to collaborating on Open source projects
 
 
